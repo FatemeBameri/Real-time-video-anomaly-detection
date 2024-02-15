@@ -1,4 +1,4 @@
-# Real-time-video-anomaly-detection
+# Real-time-video-anomaly-detection-papers
 1. Real‑time anomaly detection on surveillance video with two‑stream spatio‑temporal generative model
 2. Attention-guided generator with dual discriminator GAN for real-time video anomaly detection
 3. Multi-scale and real-time non-parametric approach for anomaly detection and localization
